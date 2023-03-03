@@ -1,12 +1,10 @@
-import ChatLayout from './modules/main/chat-layout/chat-layout';
-import './App.css';
+import Main from './modules/main/main';
 
 function App() {
   return (
     <>
-      <ChatLayout />
+      <Main />
     </>
   );
 }
-
 export default App;
